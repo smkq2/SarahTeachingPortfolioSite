@@ -2,18 +2,18 @@
 markdown: redcarpet
 highlighter: pygments
 paginate: 5
-language: 'en-uk'
+language: 'en-us'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Sarah Polo-s Digital Teaching Portfolio'
+description: "The online home of Sarah Polo-s Teaching Portfolio and CV"
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Sarah Polo'
 # edit 'categories' in the front matter of every post to match this username
-username: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
+username: smkq2
+bio: ''
+location: 'Kansas, USA'
 url: 'http://biomadeira.github.io/jasper/'
 image: 'assets/images/casper.png'
 
